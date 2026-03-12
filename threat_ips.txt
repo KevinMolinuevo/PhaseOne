@@ -1,0 +1,9 @@
+#grep "UNION SELECT" access.log | awk '{print $1}'| sort | uniq >> threat_ips.txt
+#This gives you the threat IPs
+
+
+
+
+103.45.67.89
+185.22.44.55
+204.15.11.2
