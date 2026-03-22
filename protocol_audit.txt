@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx/1.28.0 (Ubuntu)
+Date: Sun, 22 Mar 2026 20:39:45 GMT
+Content-Type: text/html
+Content-Length: 615
+Last-Modified: Sun, 22 Mar 2026 20:31:42 GMT
+Connection: keep-alive
+ETag: "69c051ae-267"
+Accept-Ranges: bytes
+
+PING google.com (142.250.190.238) 56(84) bytes of data.
+64 bytes from pnlgaa-aw-in-f14.1e100.net (142.250.190.238): icmp_seq=1 ttl=115 time=17.8 ms
+64 bytes from pnlgaa-aw-in-f14.1e100.net (142.250.190.238): icmp_seq=2 ttl=115 time=13.7 ms
+64 bytes from pnlgaa-aw-in-f14.1e100.net (142.250.190.238): icmp_seq=3 ttl=115 time=20.4 ms
+64 bytes from pnlgaa-aw-in-f14.1e100.net (142.250.190.238): icmp_seq=4 ttl=115 time=18.4 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+rtt min/avg/max/mdev = 13.736/17.584/20.390/2.418 ms
