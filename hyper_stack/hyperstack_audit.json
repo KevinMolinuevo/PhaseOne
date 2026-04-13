@@ -1,0 +1,9 @@
+{
+  "operator": "KL",
+  "host_ip": "10.0.2.15",
+  "vm_sandbox_ip": "192.168.128.15",
+  "web_container_id": "7af37d4c3502",
+  "isolation_test": "PASSED",
+  "persistence_verified": true
+}
+
