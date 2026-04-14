@@ -1,0 +1,15 @@
+==================================================
+SESSION 16: READINESS INVENTORY
+==================================================
+Operator: Kevin Molinuevo
+Date: 4/14/26
+
+Confidence Audit (Yes/No):
+1. Nmap (Network Scanning): [Yes ]
+2. Docker (Containerization): [Yes ]
+3. Linux Hardening (UFW/chmod): [Yes ]
+4. VS Code Remote-SSH: [Yes ]
+
+Identify your weakest area and your plan to review it:
+My weakest area is Docker and containerization. I plan to review it by looking at some more videos in my free time and exploring Docker more on my VM to get more comfortable with the commands and how it works.
+==================================================
