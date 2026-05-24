@@ -1,0 +1,5 @@
+# DFIR COLLECTION LOG
+* Malicious Process Name: NC
+* Malicious Process ID (PID): 10/nc
+* Memory Dump MD5 Hash: 440f45eeea0f8240dc7fe9d9117d74f3
+* Artifacts SHA256 Hash: 36e1e9ce85d2d52c0020dde965a74c6ba49bad9784b5c13b3605c1eb1cb45c03 
