@@ -1,0 +1,13 @@
+# FORENSIC FINDINGS REPORT (THE MALWARE AUTOPSY)
+
+### WHO:
+* rootkit_beacon.exe
+
+### WHAT:
+* Resume.exe
+
+### WHEN:
+* 2026-05-26 21:54:58 EDT
+
+### HOW:
+* HIDDEN_PROCESS_NO_WINDOW
