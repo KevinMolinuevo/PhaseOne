@@ -1,0 +1,4 @@
+Timestamp,Source IP,Event Type,Action,Description
+2026-05-26T08:01:22,185.220.101.45,Failed Login,Initial Access,Multiple failed login attempts detected on WEB-SERVER-01
+2026-05-26T08:11:05,10.10.10.5,Domain Admin Escalation,Lateral Movement,Attacker escalated to Domain Admin using stolen credentials and moved to DC-01
+2026-05-26T08:34:11,10.10.10.20,Data Exfiltration,Exfiltration,Anomalous outbound transfer detected: 4.7GB sent to external IP
