@@ -2,9 +2,16 @@
 
 Organized course repository for the Phase One cybersecurity curriculum.
 
-## Linux Fundamentals
+Each top-level folder follows the same numbering pattern:
 
-Week 1 - Sessions 1, 2, 3
+- Week 1 / TLAB 1 contains Sessions 1-3.
+- Week 2 / TLAB 2 contains Sessions 4-6.
+- Week 3 / TLAB 3 contains Sessions 7-9.
+- The pattern continues in groups of three sessions per week.
+
+## Week 01 / TLAB 01 - Linux Fundamentals
+
+Sessions 1, 2, 3
 
 - Session 1: Filesystem navigation and enumeration
   - Lab S1: `discovery.txt`
@@ -13,9 +20,9 @@ Week 1 - Sessions 1, 2, 3
 - Session 3: Stream editing and log parsing
   - Lab S3: `bash_onliners.sh`
 
-## Networking and Protocol Analysis
+## Week 02 / TLAB 02 - Networking and Protocol Analysis
 
-Week 2 - Sessions 4, 5, 6
+Sessions 4, 5, 6
 
 - Session 4: OSI model and TCP/IP fundamentals
   - Lab S4: Wireshark TLS handshake analysis
@@ -24,9 +31,9 @@ Week 2 - Sessions 4, 5, 6
 - Session 6: DNS and protocol interrogation
   - Lab S6: `protocol_audit.txt`
 
-## Python for Security
+## Week 03 / TLAB 03 - Python for Security
 
-Week 3 - Sessions 7, 8, 9
+Sessions 7, 8, 9
 
 - Session 7: Security scripting and service enumeration
   - Lab S7: `security_audit.py`
@@ -35,9 +42,9 @@ Week 3 - Sessions 7, 8, 9
 - Session 9: Network scripting and TCP port connection
   - Lab S9: `tcp_connect.py`
 
-## Docker and Containers
+## Week 04 / TLAB 04 - Docker and Containers
 
-Week 4 - Sessions 10, 11, 12
+Sessions 10, 11, 12
 
 - Session 10: Virtualization concepts and multi-container architecture
   - Lab S10: `docker-compose.yml`
@@ -46,9 +53,9 @@ Week 4 - Sessions 10, 11, 12
 - Session 12: Docker Compose deployment
   - Lab S12: `docker-compose.yml`
 
-## Identity, Access and Active Directory
+## Week 05 / TLAB 05 - Identity, Access and Active Directory
 
-Week 5 - Sessions 13, 14, 15
+Sessions 13, 14, 15
 
 - Session 13: Security policy design, IAM and MFA
   - Lab S13: `onboard_engineers.ps1`
@@ -57,9 +64,9 @@ Week 5 - Sessions 13, 14, 15
 - Session 15: Linux-Windows domain join and identity unification
   - Lab S15: `unified_identity.png`
 
-## The Forge: Sprint Midterm Finale
+## Week 06 / TLAB 06 - The Forge: Sprint Midterm Finale
 
-Week 6 - Sessions 16, 17, 18
+Sessions 16, 17, 18
 
 - Session 16: OSI troubleshooting and break/fix diagnostics
   - Lab S16: `readiness_check.log`
@@ -68,9 +75,9 @@ Week 6 - Sessions 16, 17, 18
 - Session 18: Solo full-stack enterprise deployment
   - Lab S18: `HardenedOutpost_SAD.pdf`
 
-## Reconnaissance and Vulnerability Analysis
+## Week 07 / TLAB 07 - Reconnaissance and Vulnerability Analysis
 
-Week 7 - Sessions 19, 20, 21
+Sessions 19, 20, 21
 
 - Session 19: Passive reconnaissance and OSINT
   - Lab S19: `ThreatProfile_CloudNano.md`
@@ -79,25 +86,33 @@ Week 7 - Sessions 19, 20, 21
 - Session 21: CVE research and CVSS triage
   - Lab S21: `remediation_plan.md`
 
-## Exploitation and Post-Exploitation
+## Week 08 / TLAB 08 - Exploitation
 
-Weeks 8-9 - Sessions 22-27
+Sessions 22, 23, 24
 
 - Session 22: Exploitation frameworks and gaining a shell
 - Session 23: Web application attacks and traffic interception
 - Session 24: SQL injection and XSS session theft
 
-## DFIR
+## Week 09 / TLAB 09 - Post-Exploitation
 
-Week 10 - Sessions 28, 29, 30
+Sessions 25, 26, 27
+
+- Session 25: Privilege escalation
+- Session 26: Pivoting and lateral movement
+- Session 27: Post-exploitation reporting
+
+## Week 10 / TLAB 10 - DFIR
+
+Sessions 28, 29, 30
 
 - Session 28: Chain of custody and live triage
 - Session 29: Disk forensics
 - Session 30: Memory forensics
 
-## Active Defense
+## Week 11 / TLAB 11 - Active Defense
 
-Week 11 - Sessions 31, 32, 33
+Sessions 31, 32, 33
 
 - Session 31: Firewall rules and traffic filtering
 - Session 32: Intrusion detection and alert analysis
