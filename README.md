@@ -4,14 +4,14 @@ Organized course repository for the Phase One cybersecurity curriculum.
 
 Each top-level folder follows the same numbering pattern:
 
-- Week 1 contains TLAB 1, which contains Sessions 1-3.
-- Week 2 contains TLAB 2, which contains Sessions 4-6.
-- Week 3 contains TLAB 3, which contains Sessions 7-9.
+- Week 1 contains Sessions 1-3 and TLAB 1.
+- Week 2 contains Sessions 4-6 and TLAB 2.
+- Week 3 contains Sessions 7-9 and TLAB 3.
 - The pattern continues in groups of three sessions per week.
 
 ## Week 01 / TLAB 01 - Linux Fundamentals
 
-Folder: `Week_01_Linux_Fundamentals/TLAB_01/`
+Folder: `Week_01_Linux_Fundamentals/`
 
 Sessions 1, 2, 3
 
@@ -24,7 +24,7 @@ Sessions 1, 2, 3
 
 ## Week 02 / TLAB 02 - Networking and Protocol Analysis
 
-Folder: `Week_02_Networking_Protocol_Analysis/TLAB_02/`
+Folder: `Week_02_Networking_Protocol_Analysis/`
 
 Sessions 4, 5, 6
 
@@ -37,7 +37,7 @@ Sessions 4, 5, 6
 
 ## Week 03 / TLAB 03 - Python for Security
 
-Folder: `Week_03_Python_for_Security/TLAB_03/`
+Folder: `Week_03_Python_for_Security/`
 
 Sessions 7, 8, 9
 
@@ -50,7 +50,7 @@ Sessions 7, 8, 9
 
 ## Week 04 / TLAB 04 - Docker and Containers
 
-Folder: `Week_04_Docker_Containers/TLAB_04/`
+Folder: `Week_04_Docker_Containers/`
 
 Sessions 10, 11, 12
 
@@ -63,7 +63,7 @@ Sessions 10, 11, 12
 
 ## Week 05 / TLAB 05 - Identity, Access and Active Directory
 
-Folder: `Week_05_Identity_Access_Active_Directory/TLAB_05/`
+Folder: `Week_05_Identity_Access_Active_Directory/`
 
 Sessions 13, 14, 15
 
@@ -76,7 +76,7 @@ Sessions 13, 14, 15
 
 ## Week 06 / TLAB 06 - The Forge: Sprint Midterm Finale
 
-Folder: `Week_06_The_Forge_Midterm_Finale/TLAB_06/`
+Folder: `Week_06_The_Forge_Midterm_Finale/`
 
 Sessions 16, 17, 18
 
@@ -89,7 +89,7 @@ Sessions 16, 17, 18
 
 ## Week 07 / TLAB 07 - Reconnaissance and Vulnerability Analysis
 
-Folder: `Week_07_Reconnaissance_Vulnerability_Analysis/TLAB_07/`
+Folder: `Week_07_Reconnaissance_Vulnerability_Analysis/`
 
 Sessions 19, 20, 21
 
@@ -102,7 +102,7 @@ Sessions 19, 20, 21
 
 ## Week 08 / TLAB 08 - Exploitation
 
-Folder: `Week_08_Exploitation/TLAB_08/`
+Folder: `Week_08_Exploitation/`
 
 Sessions 22, 23, 24
 
@@ -112,7 +112,7 @@ Sessions 22, 23, 24
 
 ## Week 09 / TLAB 09 - Post-Exploitation
 
-Folder: `Week_09_Post_Exploitation/TLAB_09/`
+Folder: `Week_09_Post_Exploitation/`
 
 Sessions 25, 26, 27
 
@@ -122,7 +122,7 @@ Sessions 25, 26, 27
 
 ## Week 10 / TLAB 10 - DFIR
 
-Folder: `Week_10_DFIR/TLAB_10/`
+Folder: `Week_10_DFIR/`
 
 Sessions 28, 29, 30
 
@@ -132,7 +132,7 @@ Sessions 28, 29, 30
 
 ## Week 11 / TLAB 11 - Active Defense
 
-Folder: `Week_11_Active_Defense/TLAB_11/`
+Folder: `Week_11_Active_Defense/`
 
 Sessions 31, 32, 33
 
