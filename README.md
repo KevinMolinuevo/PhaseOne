@@ -20,7 +20,8 @@ Sessions 1, 2, 3
 - Session 2: File permission hardening and security automation
   - Lab S2: `harden.sh`
 - Session 3: Stream editing and log parsing
-  - Lab S3: `bash_onliners.sh`
+- Session 3 artifact: `threat_ips.txt`
+- TLAB 1 artifact: `final_threat_report.txt`
 
 ## Week 02 / TLAB 02 - Networking and Protocol Analysis
 
@@ -34,6 +35,7 @@ Sessions 4, 5, 6
   - Lab S5: CIDR subnetting scheme
 - Session 6: DNS and protocol interrogation
   - Lab S6: `protocol_audit.txt`
+- TLAB 2 artifact: `tlab_report.txt`
 
 ## Week 03 / TLAB 03 - Python for Security
 
@@ -47,6 +49,7 @@ Sessions 7, 8, 9
   - Lab S8: `system_interrogation.py`
 - Session 9: Network scripting and TCP port connection
   - Lab S9: `tcp_connect.py`
+- TLAB 3 artifacts: `incident_response.py`, `threat_report.json`
 
 ## Week 04 / TLAB 04 - Docker and Containers
 
@@ -60,6 +63,7 @@ Sessions 10, 11, 12
   - Lab S11: secure container artifacts
 - Session 12: Docker Compose deployment
   - Lab S12: `docker-compose.yml`
+- TLAB 4 artifacts: `hyper_stack/docker-compose.yml`, `hyper_stack/hyperstack_audit.json`
 
 ## Week 05 / TLAB 05 - Identity, Access and Active Directory
 
@@ -73,6 +77,7 @@ Sessions 13, 14, 15
   - Lab S14: `gpo_audit.txt`
 - Session 15: Linux-Windows domain join and identity unification
   - Lab S15: `unified_identity.png`
+- TLAB 5 artifact: not present yet
 
 ## Week 06 / TLAB 06 - The Forge: Sprint Midterm Finale
 
@@ -86,6 +91,7 @@ Sessions 16, 17, 18
   - Lab S17: `practical_exam_report.txt`
 - Session 18: Solo full-stack enterprise deployment
   - Lab S18: `HardenedOutpost_SAD.pdf`
+- TLAB 6 artifact: not present yet
 
 ## Week 07 / TLAB 07 - Reconnaissance and Vulnerability Analysis
 
@@ -99,6 +105,7 @@ Sessions 19, 20, 21
   - Lab S20: `nmap_scan_results.txt`
 - Session 21: CVE research and CVSS triage
   - Lab S21: `remediation_plan.md`
+- TLAB 7 artifact: `Additional_Perimeter_Assessment.md`
 
 ## Week 08 / TLAB 08 - Exploitation
 
@@ -109,6 +116,7 @@ Sessions 22, 23, 24
 - Session 22: Exploitation frameworks and gaining a shell
 - Session 23: Web application attacks and traffic interception
 - Session 24: SQL injection and XSS session theft
+- TLAB 8 artifact: `Deep_Pivot_Report.md`
 
 ## Week 09 / TLAB 09 - Post-Exploitation
 
@@ -119,6 +127,7 @@ Sessions 25, 26, 27
 - Session 25: Privilege escalation
 - Session 26: Pivoting and lateral movement
 - Session 27: Post-exploitation reporting
+- TLAB 9 artifact: not present yet
 
 ## Week 10 / TLAB 10 - DFIR
 
@@ -129,6 +138,7 @@ Sessions 28, 29, 30
 - Session 28: Chain of custody and live triage
 - Session 29: Disk forensics
 - Session 30: Memory forensics
+- TLAB 10 artifact: `Incident_Response_Report.md`
 
 ## Week 11 / TLAB 11 - Active Defense
 
@@ -139,3 +149,4 @@ Sessions 31, 32, 33
 - Session 31: Firewall rules and traffic filtering
 - Session 32: Intrusion detection and alert analysis
 - Session 33: Endpoint detection and response
+- TLAB 11 artifacts: `Operation_Fortress_Report.md`, `firewall_task.sh`, `suricata_task.rules`, `sysmon_task.xml`
