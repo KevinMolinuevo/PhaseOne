@@ -1,2 +1,0 @@
-# TASK 2: Alert on HTTP traffic containing the string "cmd=whoami"
-[INSERT SURICATA RULE HERE]
