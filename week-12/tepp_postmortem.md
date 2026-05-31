@@ -1,7 +1,7 @@
 # Phase 1 Final Reckoning — TEPP Post-Mortem
 **Operator:** Kevin Molinuevo
 **Date:** May 28, 2026
-**Repository:** [Your GitHub repo URL]
+**Repository:** https://github.com/KevinMolinuevo/PhaseOne
 **TKH Innovation Fellowship 2026 | Phase 1 | Cybersecurity**
 
 ---
